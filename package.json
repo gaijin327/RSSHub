@@ -50,7 +50,7 @@
         "*.yml": "eslint --cache --fix"
     },
     "dependencies": {
-        "@hono/node-server": "1.11.3",
+        "@hono/node-server": "1.19.15",
         "@hono/swagger-ui": "0.2.2",
         "@hono/zod-openapi": "0.14.4",
         "@notionhq/client": "2.2.15",
@@ -73,9 +73,9 @@
         "entities": "4.5.0",
         "etag": "1.8.1",
         "fanfou-sdk": "5.0.0",
-        "form-data": "4.0.0",
+        "form-data": "4.0.6",
         "googleapis": "140.0.0",
-        "hono": "4.4.6",
+        "hono": "4.13.5",
         "html-to-text": "9.0.5",
         "http-cookie-agent": "6.0.5",
         "https-proxy-agent": "7.0.4",
@@ -90,7 +90,7 @@
         "lru-cache": "10.2.2",
         "lz-string": "1.5.0",
         "mailparser": "3.7.1",
-        "markdown-it": "14.1.0",
+        "markdown-it": "14.2.0",
         "module-alias": "2.2.3",
         "notion-to-md": "3.1.1",
         "oauth-1.0a": "2.2.6",
@@ -108,7 +108,7 @@
         "re2js": "0.4.1",
         "rfc4648": "1.5.3",
         "rss-parser": "3.13.0",
-        "sanitize-html": "2.13.0",
+        "sanitize-html": "2.17.7",
         "simplecc-wasm": "0.1.5",
         "socks-proxy-agent": "8.0.3",
         "source-map": "0.7.4",
@@ -120,7 +120,7 @@
         "tough-cookie": "4.1.4",
         "tsx": "4.15.5",
         "twitter-api-v2": "1.17.1",
-        "undici": "6.19.0",
+        "undici": "6.28.1",
         "uuid": "10.0.0",
         "winston": "3.13.0",
         "xxhash-wasm": "1.0.2",
@@ -179,7 +179,7 @@
         "typescript": "5.4.5",
         "unified": "11.0.4",
         "vite-tsconfig-paths": "4.3.2",
-        "vitest": "1.6.0"
+        "vitest": "4.1.11"
     },
     "packageManager": "pnpm@9.2.0",
     "engines": {
